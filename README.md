@@ -1,12 +1,10 @@
 <h1 align="center">Seja Bem-vindo(a) ao meu perfil do GitHub :)</h1>
 
-##
+🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end; <br>
+🧠 Atualmente, estou me aprimorando em desenvolvimento web; <br>
+💻 Faço sites em HTML e CSS; <br>
+👾 Produzo aplicativos através do React Native. 
 
-🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;
-🧠 Atualmente, estou me aprimorando em desenvolvimento web;
-💻 Faço sites em HTML e CSS;
-👾 Produzo aplicativos através do React Native.
-  
 <div align="center">   
   <a href="https://github.com/luisamellx">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luisamellx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
