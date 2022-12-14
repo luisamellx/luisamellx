@@ -8,15 +8,15 @@
  
 ##
   
-<div align="justify">
+<div align="left">
   <div><br>
     <img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
-    
-🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;<br>
-🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
-💻 Faço sites em HTML e CSS; <br> 
-👾 Produzo aplicativos através do React Native.
-
+    <p>
+      🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;<br>
+      🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
+      💻 Faço sites em HTML e CSS; <br> 
+      👾 Produzo aplicativos através do React Native.
+    </p>
   </div>
   
   <div><br>
