@@ -34,15 +34,13 @@
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamellx&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
       
-/* 
 <div align="center">
   <h4 align="left">Commits</h4>
-  <a href="https://github.com/luisamellx">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=luisamellx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamellx&layout=compact&langs_count=7&theme=cobalt"/>
+      
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
         
 </div>
-*/
+
 <div>
       <h3 align="left"> Quer me apoiar? </h3>
             <a href="https://www.buymeacoffee.com/luisamellx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
