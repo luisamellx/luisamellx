@@ -10,7 +10,7 @@
   
 <div align="center">
   <div><br>
-    <img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
+    <img align="left" alt="Coding" height="300" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
     <h2 align="center"> Tecnologias mais usadas por mim </h2>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
