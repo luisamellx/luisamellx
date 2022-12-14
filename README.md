@@ -8,7 +8,7 @@
  
 ##
   
-<div align="center">
+<div align="justify">
   <div><br>
     <img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
     
