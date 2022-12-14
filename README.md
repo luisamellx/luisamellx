@@ -7,7 +7,7 @@
       🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
       💻 Faço sites em HTML e CSS; <br> 
       👾 Produzo aplicativos através do React Native.
-      <img align="right" alt="Coding" height="220" src="https://media1.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47tnufxl6seznd3jjom5lp8ehajh93zp758d95ekpk&rid=giphy.gif&ct=s">
+      <img align="right" alt="Coding" height="200" src="https://media1.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47tnufxl6seznd3jjom5lp8ehajh93zp758d95ekpk&rid=giphy.gif&ct=s">
       </p>
 
 </div>
@@ -18,7 +18,7 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="external"><img                     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="external"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
       <a href="https://reactjs.org/" target="_blank" rel="external"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</div><br>
+</div>
 
 <div align="center">
   <h3 align="left">Badges</h3>
