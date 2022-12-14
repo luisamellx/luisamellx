@@ -30,7 +30,7 @@
       <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
       
-##
+###
       
 <div><br>
   <h2 align="left"> Minhas redes sociais </h2>
