@@ -1,13 +1,13 @@
 <h1 align="center">Seja Bem-vindo(a) ao meu perfil do GitHub :)</h1>
 
 <div align="left">
-
+      <p>
       🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;<br>
       🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
       💻 Faço sites em HTML e CSS; <br> 
       👾 Produzo aplicativos através do React Native.
-
-   <img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
+      </p>
+   <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
 </div>
   
   ##
