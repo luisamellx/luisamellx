@@ -10,6 +10,7 @@
       👾 Produzo aplicativos através do React Native.
     </p>
   </div>
+</div>
   
   ##
 
