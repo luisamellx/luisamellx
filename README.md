@@ -7,7 +7,7 @@
       🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
       💻 Faço sites em HTML e CSS; <br> 
       👾 Produzo aplicativos através do React Native.
-      <img align="right" alt="Coding" height="220" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
+      <img align="right" alt="Coding" height="220" src="https://giphy.com/embed/dMLmQfCO7lCA2gX3tw">
       </p>
 
 </div>
