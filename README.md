@@ -2,7 +2,7 @@
 
 <div align="left">
       <h2> Sobre mim...</h2>
-      <p><br>
+      <p>
       🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;<br>
       🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
       💻 Faço sites em HTML e CSS; <br> 
