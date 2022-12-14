@@ -1,13 +1,5 @@
 <h1 align="center">Seja Bem-vindo(a) ao meu perfil do GitHub :)</h1>
 
-<div align="center">   
-  <a href="https://github.com/luisamellx">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luisamellx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamellx&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
- 
-##
-  
 <div align="left">
   <div><br>
     <img align="left" alt="Coding" height="250" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
@@ -18,6 +10,14 @@
       👾 Produzo aplicativos através do React Native.
     </p>
   </div>
+  
+  ###
+
+<div align="center">   
+  <a href="https://github.com/luisamellx">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luisamellx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamellx&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
   
   ###
   
