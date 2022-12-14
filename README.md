@@ -37,7 +37,7 @@
 <div align="center">
   <h4 align="left">Commits</h4>
       
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luisamellx/luisamellx/blob/output/github-contribution-grid-snake.svg)
         
 </div>
 
