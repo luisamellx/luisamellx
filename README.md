@@ -21,8 +21,9 @@
       
 <div align="left">
   <h3> Minhas redes sociais </h3>
-  <a href="https://www.instagram.com/luisamellx/" target="_blank" rel="external"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="external"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://www.instagram.com/luisamellx/" target="_blank" rel="external"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" width="36" height="36" alt="Instagram" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZjBVDhHVhzfBqdClqMDsqPDbGBqcHTgXvPhnxWcsXQZbWrhSFGDwbKNtbkmtfQPPsxPL" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="36" height="36" alt="Gmail" /></a>
+      <a href="https://t.me/luisamellx" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="36" height="36" alt="Gmail" /></a>
 </div>
 
 <div align="center"><br>   
