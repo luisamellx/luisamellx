@@ -18,8 +18,12 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
+  
+  
   ###
  
+  
+  
 <div> 
   <h2 align="center"> Minhas redes sociais </h2>
   <a href="https://instagram.com/luisamellx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
