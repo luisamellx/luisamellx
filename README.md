@@ -2,29 +2,22 @@
 
 <div align="left">
       <h2> Sobre mim...</h2>
-      <p>
+      <p><br>
       🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;<br>
       🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
       💻 Faço sites em HTML e CSS; <br> 
-      👾 Produzo aplicativos através do React Native.<br><br>
+      👾 Produzo aplicativos através do React Native.
+      <img align="right" alt="Coding" height="220" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
       </p>
+
 </div>
 
 <div align="left">
-<img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
     <h3> Habilidades </h3>
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="external"><img                     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="external"><img                     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="external"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
       <a href="https://reactjs.org/" target="_blank" rel="external"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</div><br>
-
-      
-<div align="left">
-  <h3> Minhas redes sociais </h3>
-  <a href="https://www.instagram.com/luisamellx/" target="_blank" rel="external"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" width="36" height="36" alt="Instagram" /></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZjBVDhHVhzfBqdClqMDsqPDbGBqcHTgXvPhnxWcsXQZbWrhSFGDwbKNtbkmtfQPPsxPL" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="36" height="36" alt="Gmail" /></a>
-      <a href="https://t.me/luisamellx" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="36" height="36" alt="Gmail" /></a>
 </div><br>
 
 <div align="center">
@@ -42,6 +35,13 @@
         
 </div>
 
+<div align="left">
+  <h3> Minhas redes sociais </h3>
+  <a href="https://www.instagram.com/luisamellx/" target="_blank" rel="external"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" width="36" height="36" alt="Instagram" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZjBVDhHVhzfBqdClqMDsqPDbGBqcHTgXvPhnxWcsXQZbWrhSFGDwbKNtbkmtfQPPsxPL" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="36" height="36" alt="Gmail" /></a>
+      <a href="https://t.me/luisamellx" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="36" height="36" alt="Gmail" /></a>
+</div><br>
+      
 <div>
       <h3 align="left"> Quer me apoiar? </h3>
             <a href="https://www.buymeacoffee.com/luisamellx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
