@@ -11,7 +11,7 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="left" alt="Girl Coding" height="300" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
-    <h1 align="center"> Tecnologias que eu uso </h1>
+    <h1 align="center"> Tecnologias mais usadas por mim </h1>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
