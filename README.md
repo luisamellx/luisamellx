@@ -7,7 +7,7 @@
       💻 Faço sites em HTML e CSS; <br> 
       👾 Produzo aplicativos através do React Native.
 
-    <img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
+   <img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
 </div>
   
   ##
