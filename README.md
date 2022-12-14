@@ -32,7 +32,7 @@
   <h4 align="left">Commits</h4>
       
   ![Snake animation](https://github.com/luisamellx/luisamellx/blob/output/github-contribution-grid-snake.svg)
-        
+      
 </div>
 
 <div align="left">
@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/luisamellx/" target="_blank" rel="external"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" width="36" height="36" alt="Instagram" /></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZjBVDhHVhzfBqdClqMDsqPDbGBqcHTgXvPhnxWcsXQZbWrhSFGDwbKNtbkmtfQPPsxPL" target="_blank" rel="external"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="36" height="36" alt="Gmail" /></a>
       <a href="https://t.me/luisamellx" target="_blank" rel="external"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="36" height="36" alt="Gmail" /></a>
-</div><br>
+</div>
       
 <div>
       <h3 align="left"> Quer me apoiar? </h3>
