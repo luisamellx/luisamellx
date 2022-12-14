@@ -28,7 +28,7 @@
 </div>
   
 <div> 
-  <h2 align="right"> Minhas redes sociais </h2>
+  <h2 align="left"> Minhas redes sociais </h2>
   <a href="https://instagram.com/luisamellx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoluhmello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
