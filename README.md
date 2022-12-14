@@ -8,9 +8,9 @@
  
 ##
   
-<div align="right">
+<div align="left">
   <div><br>
-    <img align="left" alt="Coding" height="200" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
+    <img align="left" alt="Coding" height="250" src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
     <p>
       🙋‍♀️ Tenho 17 anos e sou uma dev junior focada em front-end;<br>
       🧠 Atualmente, estou me aprimorando em desenvolvimento web;<br>
