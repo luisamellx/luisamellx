@@ -12,7 +12,7 @@
   </div>
 </div>
   
-  ###
+  ##
 
 <div align="center">   
   <a href="https://github.com/luisamellx">
@@ -20,7 +20,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamellx&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
-  ###
+  ##
   
   <div><br>
     <h2 align="center"> Tecnologias mais usadas por mim </h2>
@@ -30,7 +30,7 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-  ###
+  ##
   
 <div> 
   <h2 align="center"> Minhas redes sociais </h2>
